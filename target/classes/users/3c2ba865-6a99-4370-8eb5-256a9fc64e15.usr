@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ns2:userXml xmlns:ns2="http://www.example.org/message/">
-    <ID>3c2ba865-6a99-4370-8eb5-256a9fc64e15</ID>
-    <UserTag>test</UserTag>
-    <UserPassword>password</UserPassword>
-    <Name>test</Name>
-</ns2:userXml>

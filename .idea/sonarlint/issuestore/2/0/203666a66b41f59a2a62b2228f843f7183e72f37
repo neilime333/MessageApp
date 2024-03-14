@@ -1,10 +1,10 @@
 
 i
-java:S1604="(Make this anonymous inner class a lambda(‚¦äËşÿÿÿÿJ$0c02d87a-6f6f-4469-beeb-3ad60a1cd696
+java:S1604="(Make this anonymous inner class a lambda(‚¦äËşÿÿÿÿJ$b1a7c09a-bfab-4577-8a8f-ef7ae64a7677
 i
-java:S1604p"(Make this anonymous inner class a lambda(ÚÌÿÿÿÿÿJ$89250540-1b25-44fe-8064-047e9fd93234
+java:S1604p"(Make this anonymous inner class a lambda(ÚÌÿÿÿÿÿJ$facc4db1-712d-4373-83a4-597f183d82d1
 i
-java:S1604y"(Make this anonymous inner class a lambda(ŸØûÿÿÿÿJ$f57941fc-5efd-4086-8480-d3e97fe749ce
-k	java:S106A"+Replace this use of System.out by a logger.(…ßœ¥şÿÿÿÿJ$6b973bb1-140a-4f75-ac64-41bb386361f2
+java:S1604y"(Make this anonymous inner class a lambda(ŸØûÿÿÿÿJ$ae57bfd3-7cc3-4838-8e10-3a5c230d76e2
+k	java:S106A"+Replace this use of System.out by a logger.(…ßœ¥şÿÿÿÿJ$0f669ad7-2d1e-4901-acae-6767935cb0eb
 }
-java:S1117_"<Rename "filename" which hides the field declared at line 20.(Óˆ‡­üÿÿÿÿJ$57ef0837-eaff-4999-bba2-eba25ceb1aaa
+java:S1117_"<Rename "filename" which hides the field declared at line 20.(Óˆ‡­üÿÿÿÿJ$b8270188-4376-4e79-ae8f-451d7fb93681

@@ -67,8 +67,8 @@ public class MainView extends JPanel {
 
         JLabel userProfileLabel = new JLabel("Profil", SwingConstants.CENTER);
         userInfos = new JLabel("", SwingConstants.CENTER);
-        userInfos.setHorizontalTextPosition(JLabel.CENTER);
-        userInfos.setVerticalTextPosition(JLabel.BOTTOM);
+        userInfos.setHorizontalTextPosition(SwingConstants.CENTER);
+        userInfos.setVerticalTextPosition(SwingConstants.BOTTOM);
 
         if (connectedUser != null) {
             setUserInfos(connectedUser);
@@ -202,10 +202,10 @@ public class MainView extends JPanel {
         messageButton.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 String msgToSend = messageToSend.getText();
-                if(msgToSend.length() <= 200) {
+                if(msgToSend.length() <= 200 && !msgToSend.isEmpty()) {
                     messageModel.addElement(mainController.addMessage(connectedUser, msgToSend));
                 } else {
-                    JOptionPane.showMessageDialog(mFrame,"Le texte rentré dépasse la limite de 200 caractères","Erreur", JOptionPane.ERROR_MESSAGE);
+                    JOptionPane.showMessageDialog(mFrame,"Le texte rentré dépasse la limite de 200 caractères ou est vide","Erreur", JOptionPane.ERROR_MESSAGE);
                 }
                 messageToSend.setText("");
             }

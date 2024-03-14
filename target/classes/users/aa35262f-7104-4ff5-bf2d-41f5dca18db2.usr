@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ns2:userXml xmlns:ns2="http://www.example.org/message/">
-    <ID>aa35262f-7104-4ff5-bf2d-41f5dca18db2</ID>
-    <UserTag>avatar</UserTag>
-    <UserPassword>password</UserPassword>
-    <Name>avatar</Name>
-    <AvatarPath>D:\Ecole\M2\appweb\front\public\fraise.png</AvatarPath>
-</ns2:userXml>

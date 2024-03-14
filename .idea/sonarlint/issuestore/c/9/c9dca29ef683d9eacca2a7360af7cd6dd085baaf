@@ -1,0 +1,20 @@
+
+†	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$917f8f47-6d11-4ba3-a660-963a5db5d16e
+„
+java:S1192ƒ"GDefine a constant instead of duplicating this literal "Erreur" 3 times.(Ï‡¼—J$905ad210-d388-48b2-89ce-c2d932196178
+i
+java:S1604`"(Make this anonymous inner class a lambda(¼ÑÁöÿÿÿÿÿJ$7c37ad31-8be4-4c5b-a055-fcec73f85501
+c
+java:S1604z"(Make this anonymous inner class a lambda(ÑÁÎ"J$e2c6cac3-14e0-40a4-94e2-7e2d5f55fd2e
+j
+java:S1604‰"(Make this anonymous inner class a lambda(çè¼¨ÿÿÿÿÿJ$a43508a2-c431-4f1f-9e2f-084ff0708d8b
+j
+java:S1604Ê"(Make this anonymous inner class a lambda(½É–ŸûÿÿÿÿJ$932b181f-9762-42bc-9fbb-f9b0b6874f32
+j
+java:S1604æ"(Make this anonymous inner class a lambda(âÕœúÿÿÿÿJ$6545c3e9-18e7-4a43-9f73-dbebf77f824e
+e
+java:S1604£"(Make this anonymous inner class a lambda(Í•¹ÌJ$8187ed41-15d6-4431-9f3f-8b9a41386189
+l
+java:S1948"0Make "mainController" transient or serializable.(§ó¿J$767b00cf-ac36-4223-9bc4-002d479e314e
+“
+java:S3776'"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ğÏìôøÿÿÿÿJ$6964be31-73d8-44b9-b182-084064c54faf

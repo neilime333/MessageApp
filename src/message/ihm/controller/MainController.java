@@ -17,7 +17,6 @@ public class MainController implements MainView.MainListener {
     protected ISession session;
     protected MainView mainView;
     protected ConnexionView connexionView;
-    protected UserController userController;
 
     public MainController(IDatabase database, EntityManager entityManager, ISession mSession) {
         this.database = database;
@@ -25,7 +24,6 @@ public class MainController implements MainView.MainListener {
         this.session = mSession;
         this.mainView = new MainView(this);
         this.mainView.logOutOnClick(this);
-        this.userController = new UserController(database,entityManager,mSession);
     }
 
     //Users

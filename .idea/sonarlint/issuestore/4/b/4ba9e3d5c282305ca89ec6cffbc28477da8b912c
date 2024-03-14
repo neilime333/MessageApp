@@ -1,21 +1,21 @@
 
 i
-java:S1604;"(Make this anonymous inner class a lambda(Ô¶µÿþÿÿÿÿJ$b639df90-4185-46c0-ad47-f06550756a90
+java:S1604;"(Make this anonymous inner class a lambda(Ô¶µÿþÿÿÿÿJ$893810b4-b1f8-4086-8daa-0fc9343611bd
 c
-java:S1604["(Make this anonymous inner class a lambda(È¿ÔSJ$4d0f257c-996a-45d2-b0d2-21b8f58d4a7e
+java:S1604["(Make this anonymous inner class a lambda(È¿ÔSJ$81fbd6e2-7def-4908-b6a1-c4326657fdc7
 i
-java:S1604e"(Make this anonymous inner class a lambda(Ü‹ØƒÿÿÿÿÿJ$d9cde8f2-ce78-4295-baa6-e1a670ed1e48
+java:S1604e"(Make this anonymous inner class a lambda(Ü‹ØƒÿÿÿÿÿJ$e5ffdb88-0692-4930-98d4-64e08e5d3501
 i
-java:S1604t"(Make this anonymous inner class a lambda(„¬íÚÿÿÿÿÿJ$e0d01dd4-9a8f-4c34-ac17-2edb720c2602
+java:S1604t"(Make this anonymous inner class a lambda(„¬íÚÿÿÿÿÿJ$9ffe5619-a067-4888-a8a5-dcfa314e5b6e
 d
-java:S1604~"(Make this anonymous inner class a lambda(öâð»J$4cf444f6-94fd-45a9-9358-2c72e89653c5
+java:S1604~"(Make this anonymous inner class a lambda(öâð»J$72db3319-74b1-4c4e-b1d3-e61585dbd81f
 ¡
-java:S1488³"_Immediately return this expression instead of assigning it to the temporary variable "newUser".(ÂùùþÿÿÿÿJ$4b127207-3a97-4646-a0fe-71c9bb14439c
+java:S1488³"_Immediately return this expression instead of assigning it to the temporary variable "newUser".(ÂùùþÿÿÿÿJ$fd57f66b-3bae-4179-8916-bb5b0914dbdd
 ¤
-java:S1488Ý"bImmediately return this expression instead of assigning it to the temporary variable "newMessage".(àÀ¬±úÿÿÿÿJ$d162da04-e841-40bf-aaac-c736fa9e2f6b
+java:S1488Ý"bImmediately return this expression instead of assigning it to the temporary variable "newMessage".(àÀ¬±úÿÿÿÿJ$9472a3eb-18de-4842-ba48-973cbcb27e71
 `
-java:S2119±"Save and re-use this "Random".(Æá¼ÞùÿÿÿÿJ$20bdd9df-58c8-435c-9eff-4e6c3f1f3336
+java:S2119±"Save and re-use this "Random".(Æá¼ÞùÿÿÿÿJ$ffe36a41-43d6-4b0b-bfec-4d54d19e42a3
 {
-java:S1155Ó">Use isEmpty() to check whether the collection is empty or not.(Š–­¦J$34e20af5-2628-422a-8bf9-83e14c7c4bbd
+java:S1155Ó">Use isEmpty() to check whether the collection is empty or not.(Š–­¦J$fcccf19e-4bdd-45fe-940c-e7214deb8b63
 [
-java:S2119Ù"Save and re-use this "Random".(•õµ“J$ba8f33eb-2482-4bd2-96f5-a0989dce7711
+java:S2119Ù"Save and re-use this "Random".(•õµ“J$d29b474a-327e-4c92-9578-b2227a038a02

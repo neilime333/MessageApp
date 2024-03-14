@@ -17,3 +17,13 @@ R
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 W
 'src/message/ihm/view/ConnexionView.java,2\0\203666a66b41f59a2a62b2228f843f7183e72f37
+R
+"src/message/ihm/view/MainView.java,c\9\c9dca29ef683d9eacca2a7360af7cd6dd085baaf
+^
+.src/message/ihm/controller/MainController.java,9\3\933722399a88c75de1fda3bd987e38da6334c656
+R
+"src/message/ihm/view/UserView.java,3\9\392808601142d9e92a674ce0aa7be6fb1a427525
+^
+.src/message/ihm/controller/UserController.java,a\9\a950096b964b2fff30f55484a18636621c232dcd
+T
+$src/message/ihm/view/ProfilView.java,5\b\5b52f9b6f775420eb87b26961beb67c72ebc2e74

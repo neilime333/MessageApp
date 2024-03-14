@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:userXml xmlns:ns2="http://www.example.org/message/">
+    <ID>5dc395d4-c701-4118-803e-01a07779c16e</ID>
+    <UserTag>test</UserTag>
+    <UserPassword>password</UserPassword>
+    <Name>test</Name>
+    <AvatarPath>D:\Ecole\M2\2D3DIHM\MessageApp\src\main\resources\images\follow.png</AvatarPath>
+    <follows>kalvin</follows>
+</ns2:userXml>
